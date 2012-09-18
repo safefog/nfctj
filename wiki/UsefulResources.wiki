@@ -1,7 +1,6 @@
 #labels Phase-Design
 Just basic article, not important
 
-
 http://www.codeproject.com/Articles/258268/Tap-to-Pair-to-Share-and-to-Pay-NFC-Lets-Unlock-Th
 
 Android API
