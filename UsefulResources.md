@@ -1,0 +1,16 @@
+Just basic article, not important
+
+http://www.codeproject.com/Articles/258268/Tap-to-Pair-to-Share-and-to-Pay-NFC-Lets-Unlock-Th
+
+Android API
+
+http://developer.android.com/reference/android/nfc/package-summary.html
+http://developer.android.com/reference/android/nfc/tech/package-summary.html
+
+Main Resource
+
+http://www.nfc-forum.org
+
+Must Watch Video:
+
+http://www.youtube.com/watch?v=mSKR2ug1Adk
